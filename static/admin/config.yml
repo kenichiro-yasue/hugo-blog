@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: MisterTeacher/freelance_blog  # GitHubのリポジトリ　「https://github.com/xxxx/yyyy」の「xxxx/yyyy」の部分
+  repo: kenichiro-yasue/hugo-blog  # GitHubのリポジトリ　「https://github.com/xxxx/yyyy」の「xxxx/yyyy」の部分
   branch: master
 
 publish_mode: editorial_workflow
